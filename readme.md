@@ -1,1 +1,3 @@
-feat: initial readme
+#Algo on Java
+
+These algo are from CodeWars.
